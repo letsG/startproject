@@ -1,0 +1,17 @@
+.none{
+  display: none;
+}
+.article{
+  display: block;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: cadetblue;
+  border: 2px solid black;
+}
+.app{
+  background-color: bisque;
+  padding: 40 px;
+}
+.news_author{
+  display: inline-block;
+}
